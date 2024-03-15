@@ -1,0 +1,23 @@
+.containerr {
+    background-color: red;
+    width: 400px;
+    height: 320px;
+    text-align: center;
+  }
+  .ContainerButton {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .ul{
+    list-style: none;
+  }
+  .li {
+    font-size: 20px;
+    border-bottom: 1px solid;
+  }
+  .button{
+    color: red;
+  }
